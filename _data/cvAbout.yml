@@ -20,7 +20,8 @@
         - Supervised by Prof. Wenzhong Guo and Prof. Shiping Wang
     - title: B.S.
       institution: College of Mathematics and Computer Science, Fuzhou University, China
-      year: 2015 - 2019
+      year
+: 2015 - 2019
       description:
         - Supervised by Prof. Fei Chen
 
@@ -41,4 +42,4 @@
 - title: Academic Service
   type: list
   contents:
-    - <u>Reviewer:</u> IEEE TSMC, Information Sciences, Artificial Intelligence Review, The Journal of Supercomputing, etc.
+    - <u>Reviewer:</u> IEEE TSMC, IEEE Signal Processing Letters, Information Sciences, Artificial Intelligence Review, The Journal of Supercomputing, etc.

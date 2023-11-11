@@ -41,7 +41,7 @@
 - title: Academic Service
   type: nested_list
   contents:
-    - title: <u>Reviewer:</u>
+    - title: <strong>Reviewer:</strong>
       items: 
         - IEEE Transactions on Systems, Man, and Cybernetics Systems
         - IEEE Transactions on Signal Processing

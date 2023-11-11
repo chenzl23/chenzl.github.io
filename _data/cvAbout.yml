@@ -41,13 +41,11 @@
 - title: Academic Service
   type: nested_list
   contents:
-    - title: Topic 1.
+    - title: <u>Reviewer:</u>
       items: 
-        - Description 1.
-        - Description 2.
-
-
-- title: Academic Service
-  type: list
-  contents:
-    - <u>Reviewer:</u> IEEE TSMC, IEE TSP, IEEE Signal Processing Letters, Information Sciences, Artificial Intelligence Review, The Journal of Supercomputing.
+        - IEEE Transactions on Systems, Man, and Cybernetics Systems
+        - IEEE Transactions on Signal Processing
+        - IEEE Signal Processing Letters
+        - Information Sciences
+        - Artificial Intelligence Review
+        - The Journal of Supercomputing

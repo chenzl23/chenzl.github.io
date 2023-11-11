@@ -42,8 +42,10 @@
   type: list
   contents:
     - <u>Reviewer:</u> 
-      - IEEE TSMC 
-      - IEEE Signal Processing Letters 
+      - items:
+        - IEEE TSMC 
+      - items:
+        - IEEE Signal Processing Letters 
       - Information Sciences 
       - Artificial Intelligence Review
       - The Journal of Supercomputing

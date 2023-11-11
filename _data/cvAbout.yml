@@ -41,4 +41,9 @@
 - title: Academic Service
   type: list
   contents:
-    - <u>Reviewer:</u> IEEE TSMC, IEEE Signal Processing Letters, Information Sciences, Artificial Intelligence Review, The Journal of Supercomputing, etc.
+    - <u>Reviewer:</u> 
+      - IEEE TSMC 
+      - IEEE Signal Processing Letters 
+      - Information Sciences 
+      - Artificial Intelligence Review
+      - The Journal of Supercomputing

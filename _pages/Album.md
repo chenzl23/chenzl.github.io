@@ -114,3 +114,79 @@ nav_order: 3
         </div>
     </div>
 </div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/photos/photoby_1700904353855.jpeg"  class="img-fluid rounded z-depth-1" zoomable=true %}
+        <div class="caption">
+            Cathedral of Santa Maria del Fiore, Florence, Italy
+        </div>
+    </div>
+     <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/photos/photoby_1700904354209.jpeg"  class="img-fluid rounded z-depth-1" zoomable=true %}
+        <div class="caption">
+            Leaning Tower of Pisa, Pisa, Italy
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/photos/photoby_1700904354553.jpeg"  class="img-fluid rounded z-depth-1" zoomable=true %}
+        <div class="caption">
+            Milan, Italy
+        </div>
+    </div>
+     <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/photos/photoby_1700904354912.jpeg"  class="img-fluid rounded z-depth-1" zoomable=true %}
+        <div class="caption">
+            Galleria Vittorio Emanuele II, Milan, Italy
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/photos/photoby_1700904638297.jpeg"  class="img-fluid rounded z-depth-1" zoomable=true %}
+        <div class="caption">
+            Venice, Italy
+        </div>
+    </div>
+     <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/photos/photoby_1700904639022.jpeg"  class="img-fluid rounded z-depth-1" zoomable=true %}
+        <div class="caption">
+            Venice, Italy
+        </div>
+    </div>
+</div>
+
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/photos/photoby_1700904639317.jpeg"  class="img-fluid rounded z-depth-1" zoomable=true %}
+        <div class="caption">
+            Venice, Italy
+        </div>
+    </div>
+     <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/photos/photoby_1700904640394.jpeg"  class="img-fluid rounded z-depth-1" zoomable=true %}
+        <div class="caption">
+            Schneeberg, Austria
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/photos/photoby_1700904641165.jpeg"  class="img-fluid rounded z-depth-1" zoomable=true %}
+        <div class="caption">
+            Schneeberg, Austria
+        </div>
+    </div>
+     <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/photos/photoby_1700904641500.jpeg"  class="img-fluid rounded z-depth-1" zoomable=true %}
+        <div class="caption">
+            Bled, Slovenia
+        </div>
+    </div>
+</div>

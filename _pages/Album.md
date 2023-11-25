@@ -37,3 +37,18 @@ nav_order: 3
         </div>
     </div>
 </div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/photos/photoby_1700904338353.jpeg" title="example image" class="img-fluid rounded z-depth-1" zoomable=true %}
+        <div class="caption">
+            Roma, Italy.
+        </div>
+    </div>
+     <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/photos/photoby_1700904338062.jpeg" title="example image" class="img-fluid rounded z-depth-1" zoomable=true %}
+        <div class="caption">
+            Foro Italico, Palermo, Italy
+        </div>
+    </div>
+</div>

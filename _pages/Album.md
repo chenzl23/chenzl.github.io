@@ -17,7 +17,7 @@ nav_order: 3
      <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/photos/photoby_1700904336372.jpeg"  class="img-fluid rounded z-depth-1" zoomable=true %}
         <div class="caption">
-            Syracuse Cathedral, Syracuse, Sicilia, Italy
+            Syracuse, Sicilia, Italy
         </div>
     </div>
 </div>

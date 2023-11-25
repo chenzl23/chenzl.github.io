@@ -1,8 +1,8 @@
 ---
 layout: page
-permalink: /Album/
-title: Album
-description: My photo collections.
+permalink: /Travel/
+title: Travel
+description: My travel photos.
 nav: true
 nav_order: 3
 ---

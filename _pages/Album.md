@@ -482,20 +482,7 @@ nav_order: 3
     </div>
 </div>
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/photos/photoby_1700905302262.jpeg"  class="img-fluid rounded z-depth-1" zoomable=true %}
-        <div class="caption">
-            Prague Castle, Prague, Czech Public
-        </div>
-    </div>
-     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/photos/photoby_1700905302681.jpeg"  class="img-fluid rounded z-depth-1" zoomable=true %}
-        <div class="caption">
-            Prašná brána, Prague, Czech Public
-        </div>
-    </div>
-</div>
+
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
@@ -512,20 +499,6 @@ nav_order: 3
     </div>
 </div>
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/photos/photoby_1700905303003.jpeg"  class="img-fluid rounded z-depth-1" zoomable=true %}
-        <div class="caption">
-            Budapest, Hungary
-        </div>
-    </div>
-     <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/photos/photoby_1700905303406.jpeg"  class="img-fluid rounded z-depth-1" zoomable=true %}
-        <div class="caption">
-            Széchenyi Chain Bridge, Budapest, Hungary
-        </div>
-    </div>
-</div>
 
 
 

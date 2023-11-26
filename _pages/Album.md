@@ -237,3 +237,34 @@ nav_order: 3
         </div>
     </div>
 </div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/photos/photoby_1700904644204.jpeg"  class="img-fluid rounded z-depth-1" zoomable=true %}
+        <div class="caption">
+            De Pier, Den Haag, Netherlands
+        </div>
+    </div>
+     <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/photos/photoby_1700904953707.jpeg"  class="img-fluid rounded z-depth-1" zoomable=true %}
+        <div class="caption">
+            De Pier, Den Haag, Netherlands
+        </div>
+    </div>
+</div>
+
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/photos/photoby_1700904954145.jpeg"  class="img-fluid rounded z-depth-1" zoomable=true %}
+        <div class="caption">
+            Amsterdam, Netherlands
+        </div>
+    </div>
+     <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/photos/photoby_1700904954557.jpeg"  class="img-fluid rounded z-depth-1" zoomable=true %}
+        <div class="caption">
+            Amsterdam, Netherlands
+        </div>
+    </div>
+</div>

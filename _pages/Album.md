@@ -9,6 +9,21 @@ nav_order: 3
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/photos/photoby_1700969711028.jpeg"  class="img-fluid rounded z-depth-1" zoomable=true %}
+        <div class="caption">
+            Confucius Temple, Nanjing, China
+        </div>
+    </div>
+     <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/photos/photoby_1700969711815.jpeg"  class="img-fluid rounded z-depth-1" zoomable=true %}
+        <div class="caption">
+            Wu Tong Da Dao, Nanjing, China
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/photos/photoby_1700905303783.jpeg"  class="img-fluid rounded z-depth-1" zoomable=true %}
         <div class="caption">
             Budapest, Hungary

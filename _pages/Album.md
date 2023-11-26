@@ -268,3 +268,52 @@ nav_order: 3
         </div>
     </div>
 </div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/photos/photoby_1700904954906.jpeg"  class="img-fluid rounded z-depth-1" zoomable=true %}
+        <div class="caption">
+            Zaandijk, Netherlands
+        </div>
+    </div>
+     <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/photos/photoby_1700904955200.jpeg"  class="img-fluid rounded z-depth-1" zoomable=true %}
+        <div class="caption">
+            Zaandam, Netherlands
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/photos/photoby_1700904955578.jpeg"  class="img-fluid rounded z-depth-1" zoomable=true %}
+        <div class="caption">
+            Maastricht, Netherlands
+        </div>
+    </div>
+     <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/photos/photoby_1700904955986.jpeg"  class="img-fluid rounded z-depth-1" zoomable=true %}
+        <div class="caption">
+            Maastricht, Netherlands
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/photos/photoby_1700904956420.jpeg"  class="img-fluid rounded z-depth-1" zoomable=true %}
+        <div class="caption">
+            Hohenzollern Bridge, Köln, Germany
+        </div>
+    </div>
+     <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/photos/photoby_1700904956790.jpeg"  class="img-fluid rounded z-depth-1" zoomable=true %}
+        <div class="caption">
+            Cologne Cathedral, Köln, Germany
+        </div>
+    </div>
+</div>
+
+
+
+

@@ -9,6 +9,37 @@ nav_order: 3
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/photos/photoby_1700905303783.jpeg"  class="img-fluid rounded z-depth-1" zoomable=true %}
+        <div class="caption">
+            Budapest, Hungary
+        </div>
+    </div>
+     <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/photos/photoby_1700905304133.jpeg"  class="img-fluid rounded z-depth-1" zoomable=true %}
+        <div class="caption">
+            Budapest, Hungary
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/photos/photoby_1700905304531.jpeg"  class="img-fluid rounded z-depth-1" zoomable=true %}
+        <div class="caption">
+            Vienna, Austria
+        </div>
+    </div>
+     <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/photos/photoby_1700905304853.jpeg"  class="img-fluid rounded z-depth-1" zoomable=true %}
+        <div class="caption">
+            Kahlenberg, Vienna, Austria
+        </div>
+    </div>
+</div>
+
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/photos/photoby_1700904336930.jpeg"  class="img-fluid rounded z-depth-1" zoomable=true %}
         <div class="caption">
             Syracuse Cathedral, Syracuse, Sicilia, Italy
@@ -178,6 +209,22 @@ nav_order: 3
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/photos/photoby_1700905305268.jpeg"  class="img-fluid rounded z-depth-1" zoomable=true %}
+        <div class="caption">
+            Belvedere Palace, Vienna, Austria
+        </div>
+    </div>
+     <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/photos/photoby_1700905305635.jpeg"  class="img-fluid rounded z-depth-1" zoomable=true %}
+        <div class="caption">
+            Budapest, Hungary
+        </div>
+    </div>
+</div>
+
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/photos/photoby_1700904641165.jpeg"  class="img-fluid rounded z-depth-1" zoomable=true %}
         <div class="caption">
             Schneeberg, Austria
@@ -314,6 +361,156 @@ nav_order: 3
     </div>
 </div>
 
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/photos/photoby_1700904957053.jpeg"  class="img-fluid rounded z-depth-1" zoomable=true %}
+        <div class="caption">
+            Bonn, Germany
+        </div>
+    </div>
+     <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/photos/photoby_1700904957462.jpeg"  class="img-fluid rounded z-depth-1" zoomable=true %}
+        <div class="caption">
+            Heidelberg, Germany
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/photos/photoby_1700904957811.jpeg"  class="img-fluid rounded z-depth-1" zoomable=true %}
+        <div class="caption">
+            Heidelberg, Germany
+        </div>
+    </div>
+     <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/photos/photoby_1700904958123.jpeg"  class="img-fluid rounded z-depth-1" zoomable=true %}
+        <div class="caption">
+            Füssen, Germany
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/photos/photoby_1700904958504.jpeg"  class="img-fluid rounded z-depth-1" zoomable=true %}
+        <div class="caption">
+            Neuschwanstein Castle, Schwangau, Germany
+        </div>
+    </div>
+     <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/photos/photoby_1700904958891.jpeg"  class="img-fluid rounded z-depth-1" zoomable=true %}
+        <div class="caption">
+            Königssee, Schönau am Königssee, Germany
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/photos/photoby_1700904959312.jpeg"  class="img-fluid rounded z-depth-1" zoomable=true %}
+        <div class="caption">
+            Neuschwanstein Castle, Schwangau, Germany
+        </div>
+    </div>
+     <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/photos/photoby_1700904959735.jpeg"  class="img-fluid rounded z-depth-1" zoomable=true %}
+        <div class="caption">
+            Hallstatt, Austria
+        </div>
+    </div>
+</div>
+
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/photos/photoby_1700904960147.jpeg"  class="img-fluid rounded z-depth-1" zoomable=true %}
+        <div class="caption">
+            Hallstatt, Austria
+        </div>
+    </div>
+     <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/photos/photoby_1700905301026.jpeg"  class="img-fluid rounded z-depth-1" zoomable=true %}
+        <div class="caption">
+            Hallstatt, Austria
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/photos/photoby_1700905301501.jpeg"  class="img-fluid rounded z-depth-1" zoomable=true %}
+        <div class="caption">
+            Musikverein Wien, Vienna, Austria
+        </div>
+    </div>
+     <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/photos/photoby_1700905301909.jpeg"  class="img-fluid rounded z-depth-1" zoomable=true %}
+        <div class="caption">
+            Prague, Czech Public
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/photos/photoby_1700905302262.jpeg"  class="img-fluid rounded z-depth-1" zoomable=true %}
+        <div class="caption">
+            Prague Castle, Prague, Czech Public
+        </div>
+    </div>
+     <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/photos/photoby_1700905302681.jpeg"  class="img-fluid rounded z-depth-1" zoomable=true %}
+        <div class="caption">
+            Prašná brána, Prague, Czech Public
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/photos/photoby_1700905302262.jpeg"  class="img-fluid rounded z-depth-1" zoomable=true %}
+        <div class="caption">
+            Prague Castle, Prague, Czech Public
+        </div>
+    </div>
+     <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/photos/photoby_1700905302681.jpeg"  class="img-fluid rounded z-depth-1" zoomable=true %}
+        <div class="caption">
+            Prašná brána, Prague, Czech Public
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/photos/photoby_1700905303003.jpeg"  class="img-fluid rounded z-depth-1" zoomable=true %}
+        <div class="caption">
+            Budapest, Hungary
+        </div>
+    </div>
+     <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/photos/photoby_1700905303406.jpeg"  class="img-fluid rounded z-depth-1" zoomable=true %}
+        <div class="caption">
+            Széchenyi Chain Bridge, Budapest, Hungary
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/photos/photoby_1700905303003.jpeg"  class="img-fluid rounded z-depth-1" zoomable=true %}
+        <div class="caption">
+            Budapest, Hungary
+        </div>
+    </div>
+     <div class="col-sm mt-3 mt-md-0">
+        {% include figure.html path="assets/photos/photoby_1700905303406.jpeg"  class="img-fluid rounded z-depth-1" zoomable=true %}
+        <div class="caption">
+            Széchenyi Chain Bridge, Budapest, Hungary
+        </div>
+    </div>
+</div>
 
 
 

@@ -20,8 +20,7 @@ nav_order: 3
             Wu Tong Da Dao, Nanjing, China
         </div>
     </div>
-</
-div>
+</div>
 
 <div class="row">
     <div class="col-sm mt-3 mt-md-0">

@@ -440,7 +440,7 @@ nav_order: 3
     <div class="col-sm mt-3 mt-md-0">
         {% include figure.html path="assets/photos/photoby_1700904959312.jpeg"  class="img-fluid rounded z-depth-1" zoomable=true %}
         <div class="caption">
-            Neuschwanstein Castle, Schwangau, Germany
+            Königssee, Schönau am Königssee, Germany
         </div>
     </div>
      <div class="col-sm mt-3 mt-md-0">

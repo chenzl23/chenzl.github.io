@@ -10,4 +10,5 @@
 
 config.yml内开启blog：blog.nav.title
 
-publication.md 修改索引年份
+pages/publication.md 修改索引年份
+

@@ -5,7 +5,7 @@
 title: blank # the website title (if blank, full name will be used instead)
 first_name: Zhao-Liang
 middle_name: 
-last_name: Chen
+last_name: CHEN
 email: chenzl23@outlook.com
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   The Homepage of Zhao-Liang Chen.
@@ -50,7 +50,7 @@ navbar_fixed: true
 footer_fixed: true
 
 # Dimensions
-max_width: 1100px
+max_width: 1000px
 
 # TODO: add layout settings (single page vs. multi-page)
 

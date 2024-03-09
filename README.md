@@ -12,3 +12,5 @@ config.yml内开启blog：blog.nav.title
 
 pages/publication.md 修改索引年份
 
+bib.html 修改publication的内容
+

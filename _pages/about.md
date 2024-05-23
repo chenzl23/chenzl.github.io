@@ -20,7 +20,5 @@ I am currently a Ph.D. student in College of Computer and Data Science, Fuzhou U
 
 [Curriculum Vitae (English)](https://chenzl23.github.io/assets/pdf/Curriculum Vitae.pdf) (updated at 17.02.2024).
 
-	
-:star2: **I am actively seeking a postdoctoral position starting from August/September 2024, with a primary focus on Graph and its various applications!**
 
 **My research interests:** Graph neural networks, Multimodal learning, Optimization-inspired deep learning, Semi-supervised learning, Low-rank optimization.

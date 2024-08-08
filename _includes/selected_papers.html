@@ -1,6 +1,6 @@
           <div class="card mt-3 p-3">
             <div class="publications">
             <h2>Selected Publications <a href="https://chenzl23.github.io/publications/">[Full List]</a> </h2>
-            {% bibliography -f papers %}
+            {% bibliography --group_by none --query @*[selected=true]* %}
           </div>
           </div>

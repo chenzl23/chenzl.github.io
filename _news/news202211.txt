@@ -1,7 +1,0 @@
----
-layout: post
-date: 2022-11-19 15:59:00-0400
-inline: true
----
-
-One paper has been accepted by AAAI (acceptance rate = 19.6%)! :sparkles:

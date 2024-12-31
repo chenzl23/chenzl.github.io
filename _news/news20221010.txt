@@ -1,7 +1,0 @@
----
-layout: post
-date: 2022-10-10 15:59:00-0400
-inline: true
----
-
-I have arrived in Vienna and started my 1-year visiting in University of Vienna! :sparkles:

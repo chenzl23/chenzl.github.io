@@ -54,6 +54,7 @@
         - IEEE Transactions on Systems, Man, and Cybernetics Systems (IEEE TSMC)
         - IEEE Transactions on Signal Processing (IEEE TSP)
         - IEEE Signal Processing Letters
+        - Pattern Recognition
         - Neural Processing Letters
         - Artificial Intelligence Review
         - Knowledge and Information Systems (KAIS)
@@ -63,6 +64,7 @@
       items: 
         - ICML 2025
         - CVPR 2025
+        - IJCAI 2025
         - ACM MM 2024
         - ECCV 2024
         - NeurIPS 2024
